@@ -1,0 +1,128 @@
+? CSC_SAC MainApp starting...
+Starting PlcCommunicationTask with config: config/ConveyorPlcChannel_03.config
+Starting PlcCommunicationTask with config: config/ConveyorPlcChannel_04.config
+Shutting down all PLC handlers...
+? CSC_SAC MainApp starting...
+Starting PlcCommunicationTask with config: config/ConveyorPlcChannel_04.config
+Starting PlcCommunicationTask with config: config/ConveyorPlcChannel_03.config
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_03_2025-10-07.log
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_04_2025-10-07.log
+Config loaded: PLC IP = 127.0.0.1, Port = 9000
+Config loaded: PLC IP = 192.168.23.2, Port = 102
+Shutting down all PLC handlers...
+? CSC_SAC MainApp starting...
+Starting PlcCommunicationTask with config: config/ConveyorPlcChannel_04.config
+Starting PlcCommunicationTask with config: config/ConveyorPlcChannel_03.config
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_04_2025-10-07.log
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_03_2025-10-07.log
+Config loaded: PLC IP = 127.0.0.1, Port = 9000
+Config loaded: PLC IP = 192.168.23.2, Port = 102
+Shutting down all PLC handlers...
+? CSC_SAC MainApp starting...
+Starting PlcCommunicationTask with config: config/ConveyorPlcChannel_03.config
+Starting PlcCommunicationTask with config: config/ConveyorPlcChannel_04.config
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_03_2025-10-07.log
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_04_2025-10-07.log
+Config loaded: PLC IP = 192.168.23.2, Port = 102
+Config loaded: PLC IP = 127.0.0.1, Port = 9000
+Shutting down all PLC handlers...
+? CSC_SAC MainApp starting...
+Starting PlcCommunicationTask with config: config/ConveyorPlcChannel_04.config
+Starting PlcCommunicationTask with config: config/ConveyorPlcChannel_03.config
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_03_2025-10-07.log
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_04_2025-10-07.log
+Config loaded: PLC IP = 127.0.0.1, Port = 9000
+Config loaded: PLC IP = 192.168.23.2, Port = 102
+Shutting down all PLC handlers...
+? CSC_SAC MainApp starting...
+Starting PlcCommunicationTask with config: config/ConveyorPlcChannel_04.config
+Starting PlcCommunicationTask with config: config/ConveyorPlcChannel_03.config
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_04_2025-10-07.log
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_03_2025-10-07.log
+Config loaded: PLC IP = 192.168.23.2, Port = 102
+Config loaded: PLC IP = 127.0.0.1, Port = 9000
+Shutting down all PLC handlers...
+? CSC_SAC MainApp starting...
+Starting PlcCommunicationTask with config: config/ConveyorPlcChannel_03.config
+Starting PlcCommunicationTask with config: config/ConveyorPlcChannel_04.config
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_03_2025-10-07.log
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_04_2025-10-07.log
+Config loaded: PLC IP = 127.0.0.1, Port = 9000
+Config loaded: PLC IP = 192.168.23.2, Port = 102
+Shutting down all PLC handlers...
+? CSC_SAC MainApp starting...
+Starting PlcCommunicationTask with config: config/ConveyorPlcChannel_03.config
+Starting PlcCommunicationTask with config: config/ConveyorPlcChannel_04.config
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_03_2025-10-07.log
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_04_2025-10-07.log
+Config loaded: PLC IP = 127.0.0.1, Port = 9000
+Config loaded: PLC IP = 192.168.23.2, Port = 102
+Shutting down all PLC handlers...
+? CSC_SAC MainApp starting...
+Starting PlcCommunicationTask with config: config/ConveyorPlcChannel_03.config
+Starting PlcCommunicationTask with config: config/ConveyorPlcChannel_04.config
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_04_2025-10-07.log
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_03_2025-10-07.log
+Config loaded: PLC IP = 192.168.23.2, Port = 102
+Config loaded: PLC IP = 127.0.0.1, Port = 9000
+Shutting down all PLC handlers...
+? CSC_SAC MainApp starting...
+Working Directory: C:\Software\CSC_SAC\CSC_SAC
+Starting PlcCommunicationTask with config: C:\Software\CSC_SAC\CSC_SAC/config/ConveyorPlcChannel_03.config
+Starting PlcCommunicationTask with config: C:\Software\CSC_SAC\CSC_SAC/config/ConveyorPlcChannel_04.config
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_03_2025-10-07.log
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_04_2025-10-07.log
+Config loaded: PLC IP = 127.0.0.1, Port = 9000
+Config loaded: PLC IP = 192.168.23.2, Port = 102
+Shutting down all PLC handlers...
+? CSC_SAC MainApp starting...
+Working Directory: C:\Software\CSC_SAC\CSC_SAC
+Starting PlcCommunicationTask with config: C:\Software\CSC_SAC\CSC_SAC/config/ConveyorPlcChannel_04.config
+Starting PlcCommunicationTask with config: C:\Software\CSC_SAC\CSC_SAC/config/ConveyorPlcChannel_03.config
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_03_2025-10-07.log
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_04_2025-10-07.log
+Config loaded: PLC IP = 192.168.23.2, Port = 102
+Config loaded: PLC IP = 127.0.0.1, Port = 9000
+Shutting down all PLC handlers...
+? CSC_SAC MainApp starting...
+Working Directory: C:\Software\CSC_SAC\CSC_SAC
+Starting PlcCommunicationTask with config: C:\Software\CSC_SAC\CSC_SAC/config/ConveyorPlcChannel_03.config
+Starting PlcCommunicationTask with config: C:\Software\CSC_SAC\CSC_SAC/config/ConveyorPlcChannel_04.config
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_03_2025-10-07.log
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_04_2025-10-07.log
+Config loaded: PLC IP = 127.0.0.1, Port = 9000
+Config loaded: PLC IP = 192.168.23.2, Port = 102
+Shutting down all PLC handlers...
+? CSC_SAC MainApp starting...
+Working Directory: C:\Software\CSC_SAC\CSC_SAC
+Starting PlcCommunicationTask with config: C:\Software\CSC_SAC\CSC_SAC/config/ConveyorPlcChannel_04.config
+Starting PlcCommunicationTask with config: C:\Software\CSC_SAC\CSC_SAC/config/ConveyorPlcChannel_03.config
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Logs directory already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_03_2025-10-07.log
+Log file already exists at C:\WINDOWS\system32\config\systemprofile\CSC_SAC_logs\ConveyorPlcChannel_04_2025-10-07.log
+Config loaded: PLC IP = 192.168.23.2, Port = 102
+Config loaded: PLC IP = 127.0.0.1, Port = 9000
+Shutting down all PLC handlers...

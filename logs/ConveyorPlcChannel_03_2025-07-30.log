@@ -1,0 +1,600 @@
+2025-07-30 09:52:33 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 192.168.25.30 on Port: 102
+2025-07-30 09:52:33 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 09:52:33 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 09:52:54 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 09:52:54 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 09:53:14 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 09:53:35 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 09:53:35 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 09:53:55 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 09:54:16 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 09:54:16 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 09:54:36 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 09:54:57 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 09:54:57 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 09:55:17 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 09:55:39 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 09:55:39 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 09:55:59 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 09:56:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 09:56:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 09:56:40 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 09:57:01 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 09:57:01 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 09:57:21 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 09:57:42 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 09:57:42 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 09:58:02 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 09:58:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 09:58:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 09:58:43 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 09:59:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 09:59:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 09:59:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 09:59:45 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 09:59:45 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:00:05 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 10:00:26 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 10:00:26 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:00:46 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 10:01:07 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 10:01:07 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:01:27 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 10:01:48 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 10:01:48 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:02:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 10:02:29 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 10:02:29 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:02:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 10:03:10 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 10:03:10 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:03:30 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 10:03:51 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 10:03:51 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:04:11 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 10:04:13 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 10:04:13 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 10:04:13 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:04:13 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:04:13 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:04:32 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 10:04:32 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:04:33 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:04:33 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:04:33 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:04:52 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 10:04:53 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:04:53 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:04:53 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:05:13 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 10:05:13 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:05:13 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:05:13 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:05:13 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:05:33 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 10:05:54 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 10:05:54 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:06:14 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 10:06:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 10:06:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 10:06:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:06:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:06:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:06:35 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 10:06:35 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:06:43 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:06:43 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:06:43 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:06:55 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 10:07:03 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:07:03 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:07:03 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:07:17 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection timed out: connect
+2025-07-30 10:07:17 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:07:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:07:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:07:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:07:37 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 192.168.25.30:102
+2025-07-30 10:07:43 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:07:43 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:07:43 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:15:35 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 10:15:35 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 10:15:35 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:15:35 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:15:35 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:15:55 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:15:55 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:15:55 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:16:15 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:16:15 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:16:15 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:16:35 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:16:35 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 10:16:35 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [DEBUG] CR telegram sent
+2025-07-30 10:16:35 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending CR telegram telegram: 03 00 00 32 2D E0 00 00 00 01 00 C0 01 0B C1 10 43 42 54 5F 50 4C 43 5F 30 31 5F 31 5F 43 53 43 C2 10 43 42 54 5F 50 4C 43 5F 30 31 5F 31 5F 43 53 43
+2025-07-30 10:16:35 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending Connection Request (CR) TSAP=CBT_PLC_01_1_CSC, externalTSAP=CBT_PLC_01_1_CSC
+2025-07-30 10:16:41 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Invalid TPKT version: expected 0x03 but found 65
+2025-07-30 10:16:41 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:17:01 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:17:01 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 10:17:01 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [DEBUG] CR telegram sent
+2025-07-30 10:17:01 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending CR telegram telegram: 03 00 00 32 2D E0 00 00 00 01 00 C0 01 0B C1 10 43 42 54 5F 50 4C 43 5F 30 31 5F 31 5F 43 53 43 C2 10 43 42 54 5F 50 4C 43 5F 30 31 5F 31 5F 43 53 43
+2025-07-30 10:17:01 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending Connection Request (CR) TSAP=CBT_PLC_01_1_CSC, externalTSAP=CBT_PLC_01_1_CSC
+2025-07-30 10:17:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Invalid TPKT version: expected 0x03 but found 65
+2025-07-30 10:17:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:17:28 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:17:28 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 10:17:28 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [DEBUG] CR telegram sent
+2025-07-30 10:17:28 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending CR telegram telegram: 03 00 00 32 2D E0 00 00 00 01 00 C0 01 0B C1 10 43 42 54 5F 50 4C 43 5F 30 31 5F 31 5F 43 53 43 C2 10 43 42 54 5F 50 4C 43 5F 30 31 5F 31 5F 43 53 43
+2025-07-30 10:17:28 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending Connection Request (CR) TSAP=CBT_PLC_01_1_CSC, externalTSAP=CBT_PLC_01_1_CSC
+2025-07-30 10:17:35 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Invalid TPKT version: expected 0x03 but found 65
+2025-07-30 10:17:35 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:17:55 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:17:55 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 10:17:55 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [DEBUG] CR telegram sent
+2025-07-30 10:17:55 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending CR telegram telegram: 03 00 00 32 2D E0 00 00 00 01 00 C0 01 0B C1 10 43 42 54 5F 50 4C 43 5F 30 31 5F 31 5F 43 53 43 C2 10 43 42 54 5F 50 4C 43 5F 30 31 5F 31 5F 43 53 43
+2025-07-30 10:17:55 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending Connection Request (CR) TSAP=CBT_PLC_01_1_CSC, externalTSAP=CBT_PLC_01_1_CSC
+2025-07-30 10:18:02 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Invalid TPKT version: expected 0x03 but found 65
+2025-07-30 10:18:02 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:18:22 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:18:22 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 10:18:22 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [DEBUG] CR telegram sent
+2025-07-30 10:18:22 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending CR telegram telegram: 03 00 00 32 2D E0 00 00 00 01 00 C0 01 0B C1 10 43 42 54 5F 50 4C 43 5F 30 31 5F 31 5F 43 53 43 C2 10 43 42 54 5F 50 4C 43 5F 30 31 5F 31 5F 43 53 43
+2025-07-30 10:18:22 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending Connection Request (CR) TSAP=CBT_PLC_01_1_CSC, externalTSAP=CBT_PLC_01_1_CSC
+2025-07-30 10:18:29 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Invalid TPKT version: expected 0x03 but found 65
+2025-07-30 10:18:29 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:18:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:18:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 10:18:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [DEBUG] CR telegram sent
+2025-07-30 10:18:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending CR telegram telegram: 03 00 00 32 2D E0 00 00 00 01 00 C0 01 0B C1 10 43 42 54 5F 50 4C 43 5F 30 31 5F 31 5F 43 53 43 C2 10 43 42 54 5F 50 4C 43 5F 30 31 5F 31 5F 43 53 43
+2025-07-30 10:18:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending Connection Request (CR) TSAP=CBT_PLC_01_1_CSC, externalTSAP=CBT_PLC_01_1_CSC
+2025-07-30 10:18:56 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Invalid TPKT version: expected 0x03 but found 65
+2025-07-30 10:18:56 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:19:16 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:19:16 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 10:19:16 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [DEBUG] CR telegram sent
+2025-07-30 10:19:16 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending CR telegram telegram: 03 00 00 32 2D E0 00 00 00 01 00 C0 01 0B C1 10 43 42 54 5F 50 4C 43 5F 30 31 5F 31 5F 43 53 43 C2 10 43 42 54 5F 50 4C 43 5F 30 31 5F 31 5F 43 53 43
+2025-07-30 10:19:16 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending Connection Request (CR) TSAP=CBT_PLC_01_1_CSC, externalTSAP=CBT_PLC_01_1_CSC
+2025-07-30 10:19:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Invalid TPKT version: expected 0x03 but found 65
+2025-07-30 10:19:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:19:43 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:19:43 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:19:43 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:20:03 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:20:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:20:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:20:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:20:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:20:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:20:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:20:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:20:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:21:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:21:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:21:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:21:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:21:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:21:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:21:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:21:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:21:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:22:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:22:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:22:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:22:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:22:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:22:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:22:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:22:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:22:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:23:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:23:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:23:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:23:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:23:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:23:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:23:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:23:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:23:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:24:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:24:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:24:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:24:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:24:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:24:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:24:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:24:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:24:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:25:34 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 10:25:34 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 10:25:34 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:25:34 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:25:34 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:25:54 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:25:54 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:25:54 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:26:14 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:26:14 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 10:26:14 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 10:32:35 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: Connection reset
+2025-07-30 10:33:05 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 10:33:05 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 10:33:05 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:33:05 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:33:05 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:33:25 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:33:25 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:33:25 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:33:45 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:33:45 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 10:33:45 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 10:52:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: Connection reset
+2025-07-30 10:52:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 10:52:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 10:52:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:52:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 10:52:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 10:52:43 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 10:52:43 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 10:52:43 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 10:52:43 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] @randomedata@📥 Raw buffer from PLC (23 bytes): 03 00 00 17 02 F0 80 00 01 00 01 00 00 00 01 00 1A 00 10 00 00 00 00
+2025-07-30 11:05:03 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: Connection reset
+2025-07-30 11:05:47 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 11:05:47 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 11:05:47 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 11:05:47 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 11:05:47 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 11:05:47 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: Corrupt telegram. Length too short: 23
+2025-07-30 11:08:28 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 11:08:28 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 11:08:28 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 11:08:28 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 11:08:28 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 11:08:48 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 11:08:48 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 11:08:48 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 11:08:48 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] @randomedata@📥 Raw buffer from PLC (23 bytes): 03 00 00 17 02 F0 80 00 01 00 01 00 00 00 01 00 1A 00 10 00 00 00 00
+2025-07-30 11:25:29 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: Connection reset
+2025-07-30 11:25:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 11:25:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 11:25:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 11:25:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 11:25:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 11:26:09 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 11:26:09 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 11:26:09 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 12:05:17 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 12:05:17 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 12:05:17 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 12:05:17 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 12:05:17 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 12:06:29 [Vijaywada_Server] [ERROR] ❌ Error processing scanner telegram: Connection reset
+2025-07-30 12:06:29 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: Connection reset
+2025-07-30 12:06:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 12:06:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 12:06:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 12:06:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 12:06:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 12:07:09 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 12:07:09 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 12:07:09 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 12:07:09 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] 📦 Incoming telegram total length: 35 bytes
+2025-07-30 12:07:09 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] 📥 Received telegram: ChannelID=26 | Version=17 | SeqNo=16912948 | Type=261 | Length=12337 words
+2025-07-30 12:07:09 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] ⚠️ Unknown telegram type: 261
+2025-07-30 12:07:09 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] 📤 Sending ACK (TT=102) for ChannelID=26 | SeqNo=16912948
+2025-07-30 12:07:09 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 12:26:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 12:26:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 12:26:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 12:26:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 12:26:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 12:26:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] @randomedata@📥 Raw buffer from PLC (50 bytes): 03 00 00 32 02 F0 80 00 07 00 01 00 00 00 01 00 1A 00 11 00 01 00 02 12 34 56 78 00 01 00 05 00 01 00 00 00 0D 61 31 61 32 2D 61 6C 6C 2D 31 61 6C 6C
+2025-07-30 12:26:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: Connection closed unexpectedly
+2025-07-30 12:28:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 12:28:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 12:28:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 12:28:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 12:28:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 12:28:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] 📦 Incoming telegram total length: 50 bytes
+2025-07-30 12:28:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] 📥 Received telegram: ChannelID=7 | Version=1 | SeqNo=1 | Type=26 | Length=17 words
+2025-07-30 12:28:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] SCANNER RESULT telegram received
+2025-07-30 12:28:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: Connection closed unexpectedly
+2025-07-30 12:35:19 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 12:35:19 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 12:35:19 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 12:35:19 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 12:35:19 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 12:35:19 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] @randomedata@📥 Raw buffer from PLC (50 bytes): 03 00 00 32 02 F0 80 00 07 00 01 00 00 00 01 00 1A 00 11 00 01 00 02 12 34 56 78 00 01 00 05 00 01 00 00 00 0D 61 31 61 32 2D 61 6C 6C 2D 31 61 6C 6C
+2025-07-30 12:35:19 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: Connection closed unexpectedly
+2025-07-30 12:36:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 12:36:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 12:36:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 12:36:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 12:36:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 12:36:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] @randomedata@📥 Raw buffer from PLC (50 bytes): 03 00 00 32 02 F0 80 00 07 00 01 00 00 00 01 00 1A 00 11 00 01 00 02 12 34 56 78 00 01 00 05 00 01 00 00 00 0D 61 31 61 32 2D 61 6C 6C 2D 31 61 6C 6C
+2025-07-30 12:36:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: Connection closed unexpectedly
+2025-07-30 12:36:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 12:36:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 12:36:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 12:36:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 12:36:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 12:36:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] @randomedata@📥 Raw buffer from PLC (50 bytes): 03 00 00 32 02 F0 80 00 07 00 01 00 00 00 01 00 1A 00 11 00 01 00 02 12 34 56 78 00 01 00 05 00 01 00 00 00 0D 61 31 61 32 2D 61 6C 6C 2D 31 61 6C 6C
+2025-07-30 12:36:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: Connection closed unexpectedly
+2025-07-30 12:37:30 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 12:37:30 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 12:37:30 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 12:37:30 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 12:37:30 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 12:37:50 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 12:37:50 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 12:37:50 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 12:37:50 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] @randomedata@📥 Raw buffer from PLC (50 bytes): 03 00 00 32 02 F0 80 00 07 00 01 00 00 00 01 00 1A 00 11 00 01 00 02 12 34 56 78 00 01 00 05 00 01 00 00 00 0D 61 31 61 32 2D 61 6C 6C 2D 31 61 6C 6C
+2025-07-30 12:37:50 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: Connection closed unexpectedly
+2025-07-30 12:38:59 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 12:38:59 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 12:38:59 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 12:38:59 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 12:38:59 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 12:38:59 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] 📦 Incoming telegram total length: 50 bytes
+2025-07-30 12:38:59 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] 📥 Received telegram: ChannelID=7 | Version=1 | SeqNo=1 | Type=26 | Length=17 words
+2025-07-30 12:38:59 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] SCANNER RESULT telegram received
+2025-07-30 12:38:59 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: Connection closed unexpectedly
+2025-07-30 12:42:12 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 12:42:12 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 12:42:12 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 12:42:12 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 12:42:12 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 12:42:32 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 12:42:32 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 12:42:32 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 12:42:32 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<17>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<13>, barcodesAsStr=<[]>, barcodesInASCII=<a1a2-all-1all> ##[
+2025-07-30 12:42:32 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 12:42:32 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 12:56:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 12:56:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 12:56:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 12:56:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 12:56:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 12:56:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 12:56:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 12:56:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 12:56:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<17>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<13>, barcodesAsStr=<[]>, barcodesInASCII=<a1a2-all-1all> ##[
+2025-07-30 12:56:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 12:56:24 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 12:58:26 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 12:58:26 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 12:58:26 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 12:58:26 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 12:58:26 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 12:58:46 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 12:58:46 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 12:58:46 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 12:58:47 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<17>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<13>, barcodesAsStr=<[]>, barcodesInASCII=<a1a2-all-1all> ##[
+2025-07-30 12:58:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 12:58:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 13:28:41 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 13:28:41 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 13:28:41 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 13:28:42 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 13:28:42 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 13:28:42 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<17>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<13>, barcodesAsStr=<[]>, barcodesInASCII=<a1a2-all-1all> ##[
+2025-07-30 13:28:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 13:28:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 13:38:30 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 13:38:30 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 13:38:30 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 13:38:30 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 13:38:30 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 13:38:50 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 13:38:50 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 13:38:50 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 13:38:50 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<17>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<13>, barcodesAsStr=<[]>, barcodesInASCII=<a1a2-all-1all> ##[
+2025-07-30 13:38:52 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 13:38:52 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 13:47:10 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 13:47:10 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 13:47:10 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 13:47:10 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 13:47:10 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 13:47:10 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<17>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<13>, barcodesAsStr=<[]>, barcodesInASCII=<a1a2-all-1all> ##[
+2025-07-30 13:47:12 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 13:47:12 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 14:02:32 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 14:02:32 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 14:02:32 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 14:02:32 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 14:02:32 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 14:02:32 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<17>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<13>, barcodesAsStr=<[]>, barcodesInASCII=<a1a2-all-1all> ##[
+2025-07-30 14:02:34 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 14:02:34 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 14:35:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 14:35:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 14:35:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 14:35:09 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 14:35:09 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 14:35:29 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 14:35:29 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 14:35:29 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 14:35:29 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<17>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<13>, barcodesAsStr=<[]>, barcodesInASCII=<a1a2-all-1all> ##[
+2025-07-30 14:35:31 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 14:35:31 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 14:40:31 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 14:40:31 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 14:40:31 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 14:40:31 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 14:40:31 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 14:40:31 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<17>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<13>, barcodesAsStr=<[]>, barcodesInASCII=<a1a2-all-1all> ##[
+2025-07-30 14:40:31 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 14:40:31 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 14:41:54 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 14:41:54 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 14:41:54 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 14:41:54 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 14:41:54 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 14:42:14 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 14:42:14 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 14:42:14 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 14:42:14 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<17>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<13>, barcodesAsStr=<[]>, barcodesInASCII=<a1a2-all-1all> ##[
+2025-07-30 14:42:16 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 14:42:16 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 14:46:13 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 14:46:13 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 14:46:13 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 14:46:13 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 14:46:13 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 14:46:13 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<17>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<13>, barcodesAsStr=<[]>, barcodesInASCII=<a1a2-all-1all> ##[
+2025-07-30 14:46:15 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 14:46:15 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 14:50:03 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 14:50:03 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 14:50:03 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 14:50:03 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 14:50:03 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 14:50:03 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<17>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<13>, barcodesAsStr=<[]>, barcodesInASCII=<a1a2-all-1all> ##[
+2025-07-30 14:50:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 14:50:04 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 14:52:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 14:52:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 14:52:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 14:52:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 14:52:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 14:52:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<17>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<13>, barcodesAsStr=<[]>, barcodesInASCII=<a1a2-all-1all> ##[
+2025-07-30 14:52:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 14:52:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 15:31:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 15:31:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 15:31:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:31:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 15:31:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 15:31:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<17>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<13>, barcodesAsStr=<[]>, barcodesInASCII=<a1a2-all-1all> ##[
+2025-07-30 15:31:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 15:31:20 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 15:38:01 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 15:38:01 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 15:38:01 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:38:01 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 15:38:01 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 15:38:21 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:38:21 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 15:38:21 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 15:38:41 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:38:41 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 15:38:41 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 15:38:41 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<19>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<16>, barcodesAsStr=<[0810000015]>, barcodesInASCII=<12,#0e0810000015> ##[
+2025-07-30 15:38:41 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: Connection closed unexpectedly
+2025-07-30 15:40:06 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 15:40:06 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 15:40:06 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:40:06 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 15:40:06 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 15:40:37 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 15:40:37 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 15:40:37 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:40:37 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 15:40:37 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 15:40:57 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:40:57 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 15:40:57 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 15:40:57 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<19>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<16>, barcodesAsStr=<[0810000015]>, barcodesInASCII=<12,#0e0810000015> ##[
+2025-07-30 15:40:58 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 38 31 30 30 30 30 30 31 35 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 15:40:58 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 15:43:19 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 15:43:19 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 15:43:19 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:43:19 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 15:43:19 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 15:43:40 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:43:40 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 15:43:40 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 15:43:40 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<19>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<16>, barcodesAsStr=<[0810000015]>, barcodesInASCII=<12,#0e0810000015> ##[
+2025-07-30 15:43:40 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 38 31 30 30 30 30 30 31 35 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 15:43:40 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 15:44:34 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 15:44:34 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 15:44:34 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:44:34 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 15:44:34 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 15:44:34 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<19>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<16>, barcodesAsStr=<[0810000015]>, barcodesInASCII=<12,#0e0810000015> ##[
+2025-07-30 15:44:40 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 38 31 30 30 30 30 30 31 35 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 15:44:40 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 15:45:38 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 15:45:38 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 15:45:38 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:45:38 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 15:45:38 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 15:45:46 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<19>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<16>, barcodesAsStr=<[0810000015]>, barcodesInASCII=<12,#0e0810000015> ##[
+2025-07-30 15:47:19 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 38 31 30 30 30 30 30 31 35 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 15:47:19 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 15:47:33 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 15:47:33 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 15:47:33 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:47:33 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 15:47:33 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 15:47:36 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<19>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<16>, barcodesAsStr=<[0810000015]>, barcodesInASCII=<12,#0e0810000015> ##[
+2025-07-30 15:48:01 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 15:48:01 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 15:48:01 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:48:01 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 15:48:01 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 15:48:03 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<19>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<16>, barcodesAsStr=<[0810000015]>, barcodesInASCII=<12,#0e0810000015> ##[
+2025-07-30 15:49:36 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 15:49:36 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 15:49:36 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:49:36 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 15:49:36 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 15:49:39 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<19>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<16>, barcodesAsStr=<[0810000015]>, barcodesInASCII=<12,#0e0810000015> ##[
+2025-07-30 15:50:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 15:50:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 15:50:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:50:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 15:50:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 15:50:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<19>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<16>, barcodesAsStr=<[0123400002]>, barcodesInASCII=<12,#0e0123400002> ##[
+2025-07-30 15:50:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] ✅ 1 IATA barcodes matched in BSM.
+2025-07-30 15:50:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 31 32 33 34 30 30 30 30 32 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 15:50:44 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 15:51:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 15:51:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 15:51:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:51:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 15:51:23 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 15:51:25 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<19>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<16>, barcodesAsStr=<[0123400002]>, barcodesInASCII=<12,#0e0123400002> ##[
+2025-07-30 15:51:42 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] ✅ 1 IATA barcodes matched in BSM.
+2025-07-30 15:51:45 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 31 32 33 34 30 30 30 30 32 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 15:51:45 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 15:52:47 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 15:52:47 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 15:52:47 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:52:47 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 15:52:47 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 15:52:47 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<19>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<16>, barcodesAsStr=<[0123400002]>, barcodesInASCII=<12,#0e0123400002> ##[
+2025-07-30 15:52:47 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] ✅ 1 IATA barcodes matched in BSM.
+2025-07-30 15:58:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 15:58:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 15:58:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:58:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] Connection failed: Connection refused: connect
+2025-07-30 15:58:08 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Waiting 20 seconds before retrying connection...
+2025-07-30 15:58:28 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 15:58:28 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 15:58:28 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 15:58:28 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<19>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<16>, barcodesAsStr=<[0123400002]>, barcodesInASCII=<12,#0e0123400002> ##[
+2025-07-30 15:58:29 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] ✅ 1 IATA barcodes matched in BSM.
+2025-07-30 16:02:26 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 16:02:26 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 16:02:26 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 16:02:26 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 16:02:26 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 16:02:26 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<19>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<16>, barcodesAsStr=<[0123400002]>, barcodesInASCII=<12,#0e0123400002> ##[
+2025-07-30 16:02:27 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] ✅ 1 IATA barcodes matched in BSM.
+2025-07-30 16:02:27 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending DESTINATION REQUEST TELEGRAM BARCODE : 03 00 00 3F 02 F0 80 00 07 00 01 00 00 00 01 00 42 00 30 00 01 00 02 00 01 12 34 56 78 02 00 00 00 30 31 32 33 34 30 30 30 30 32 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+2025-07-30 16:02:27 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine
+2025-07-30 16:13:48 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Initializing PLC connection to IP: 127.0.0.1 on Port: 9000
+2025-07-30 16:13:48 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Starting PLC communication handler...
+2025-07-30 16:13:48 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Attempting to connect to PLC at 127.0.0.1:9000
+2025-07-30 16:13:48 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Connection to PLC successful.
+2025-07-30 16:13:48 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Communication handler initialized successfully.
+2025-07-30 16:13:48 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Telegram [RX]: telegram=<ScannerResultTlgWithVersionNo>, length=<19>, subsystemId=<1>, component=<2>, globalId=<305419896>, cmcIndex=<1>, conveyorScannerId=<5: 2AR04_AT19>, scannerProtocolVersion=< >, status=<OK>, responseLength=<16>, barcodesAsStr=<[0123400002]>, barcodesInASCII=<12,#0e0123400002> ##[
+2025-07-30 16:13:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] ✅ 1 IATA barcodes matched in BSM.
+2025-07-30 16:13:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending VALID BARCODE telegram: 03 00 00 3E 02 F0 80 00 07 00 01 00 00 00 01 00 38 00 37 00 01 00 02 00 01 12 34 56 78 00 00 30 31 00 00 00 1E 30 31 32 33 34 30 30 30 30 32 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 00 00 16
+2025-07-30 16:13:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [INFO] Sending DESTINATION REQUEST TELEGRAM BARCODE : 03 00 00 3F 02 F0 80 00 07 00 01 00 00 00 01 00 42 00 30 00 01 00 02 00 01 12 34 56 78 02 00 00 00 30 31 32 33 34 30 30 30 30 32 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
+2025-07-30 16:13:49 ConveyorPlcChannel_03.io.RFC1006TSAPHandler [ERROR] ❌ Telegram dispatch failed: An established connection was aborted by the software in your host machine

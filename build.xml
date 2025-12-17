@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="CSC_SAC" default="run" basedir=".">
+
+    <!-- === PROJECT PROPERTIES === -->
+    <property name="src.dir"     value="src"/>
+    <property name="build.dir"   value="build"/>
+    <property name="dist.dir"    value="dist"/>
+    <property name="main-class"  value="rfc.MainApp"/>
+    <property name="lib.dir"     value="lib"/>
+    <property name="config.dir"  value="config"/>
+
+    <!-- === SETUP DIRECTORIES === -->
+    <target name="init">
+        <mkdir dir="${build.dir}"/>
+        <mkdir dir="${dist.dir}"/>
+    </target>
+
+    <!-- === COMPILE SOURCE === -->
+    <target name="compile" depends="init">
+        <javac srcdir="${src.dir}" destdir="${build.dir}" includeantruntime="false" debug="true">
+            <classpath>
+                <fileset dir="${lib.dir}">
+                    <include name="**/*.jar"/>
+                </fileset>
+            </classpath>
+        	<compilerarg line="--add-reads CSC_SAC=ALL-UNNAMED"/>
+        </javac>
+    </target>
+
+    <!-- === CREATE JAR === -->
+    <target name="jar" depends="compile">
+        <jar destfile="${dist.dir}/CSC_SAC.jar" basedir="${build.dir}">
+            <manifest>
+                <attribute name="Main-Class" value="${main-class}"/>
+                <attribute name="Class-Path" value="${classpath-jars}"/>
+            </manifest>
+        </jar>
+    </target>
+
+    <!-- === RUN APP === -->
+    <target name="run" depends="jar">
+        <java jar="${dist.dir}/CSC_SAC.jar" fork="true" dir=".">
+            <classpath>
+                <fileset dir="${lib.dir}">
+                    <include name="**/*.jar"/>
+                </fileset>
+                <pathelement location="${dist.dir}/CSC_SAC.jar"/>
+            </classpath>
+        </java>
+    </target>
+
+    <!-- === CLEAN BUILD === -->
+    <target name="clean">
+        <delete dir="${build.dir}"/>
+        <delete dir="${dist.dir}"/>
+    </target>
+
+</project>

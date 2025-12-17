@@ -1,0 +1,36 @@
+Exception in PlcCommunicationTask: 
+Exception in PlcCommunicationTask: 
+java.lang.RuntimeException: Failed to load PLC configuration from file: config/ConveyorPlcChannel_04.config
+	at platform.core.config.PlcConfigurationLoader.<init>(PlcConfigurationLoader.java:41)
+	at rfc.PlcCommunicationTask.run(PlcCommunicationTask.java:19)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.io.FileNotFoundException: config\ConveyorPlcChannel_04.config (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at platform.core.config.IniConfigLoader.<init>(IniConfigLoader.java:28)
+	at platform.core.config.PlcConfigurationLoader.<init>(PlcConfigurationLoader.java:31)
+	... 6 more
+java.lang.RuntimeException: Failed to load PLC configuration from file: config/ConveyorPlcChannel_03.config
+	at platform.core.config.PlcConfigurationLoader.<init>(PlcConfigurationLoader.java:41)
+	at rfc.PlcCommunicationTask.run(PlcCommunicationTask.java:19)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.io.FileNotFoundException: config\ConveyorPlcChannel_03.config (The system cannot find the path specified)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at platform.core.config.IniConfigLoader.<init>(IniConfigLoader.java:28)
+	at platform.core.config.PlcConfigurationLoader.<init>(PlcConfigurationLoader.java:31)
+	... 6 more
